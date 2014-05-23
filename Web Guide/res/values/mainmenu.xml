@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mainmenu">
+        <item name="ser">Search/Search website</item>
+        <item name="ot" >Online Tutorials</item>
+        <item name="new">News</item>
+        <item name="car">Cars</item>
+        <item name="bik">Bikes</item>
+        <item name="tec">Technology</item>
+        <item name="mov">Movies</item>
+        <item name="mus">Music</item>
+    </string-array>
+    
+</resources>

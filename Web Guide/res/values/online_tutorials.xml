@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="online_tutorials_menu">
+        <item name="1">w3schools</item>
+        <item name="2" >My Bring Back</item>
+        <item name="3">New Boston</item>
+        <item name="4">NPTEL</item>
+        <item name="5">Udacity</item>
+        <item name="6">Coursera</item>
+        <item name="7">Lynda</item>
+        <!--<item name="8"></item>-->
+    </string-array>
+    
+</resources>

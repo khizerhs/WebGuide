@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="textview_ot">You Have selected Onlie Tutorial</string>
+    <string name="ser_sk">your search</string>
+    <string name="ser_ws">Website name</string>
+    <string name="ser_bt">Search</string>
+    <string name="ot_head">Online Tutorials</string>
+    <string name="ser_not">NOTE\:\n=====\nEnter website name in which you want to search without \'www.\',For example you want to search in webiste \'www.osmania.ac.in\' just writing \'osmania.ac.in\' is enough.</string>
+	<string name="ot_info_rateit">Rate This Website</string>
+	<string name="ot_info_image">Info</string>
+	<string name="logo">Logo</string>
+	<string name="db">Developed by Khizer Hasan</string>
+	<string name="appname">Web Guide</string>
+	<string name="loading">please wait....</string>
+	<string name="rating_submit">Submit</string>
+    
+</resources>
